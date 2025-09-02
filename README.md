@@ -21,6 +21,7 @@ It showcases my profile, projects, and contact details with a clean layout.
 ---
 
 ## 📂 Project Structure
+```bash
 portfolio_flask/
 ├── app.py # Flask entrypoint
 ├── requirements.txt # Dependencies
@@ -34,6 +35,7 @@ portfolio_flask/
 ├── about.html
 ├── projects.html
 └── contact.html
+```
 
 ## ⚙️ Setup Instructions
 
